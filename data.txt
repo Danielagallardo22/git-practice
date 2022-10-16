@@ -1,0 +1,10 @@
+This is mys frist time using the terminal to create and edit a file. 
+After i finish doing this i will up loaded to GitHub. :)
+
+1. create a directory
+2. navegate to it.
+3. Create a file useing "touch command" and then the name that i wanted to give to this file ex. touch data.txt
+4. edit it with the "nano" comand. ex. nano data.txt
+
+
+Daniela Gallardo.
